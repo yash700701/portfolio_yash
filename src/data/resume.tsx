@@ -201,7 +201,7 @@ export const DATA = {
             dates: "",
             active: true,
             description:
-                "Designed, developed and sold animated UI components for developers.",
+                "IconKit is a powerful online tool that helps you generate platform-specific app icons like iOS, Android, and Web icons in various sizes and shapes (circle, square, squircle, etc.). It supports customization like background color, padding, badges, and text overlays. Now, IconKit also lets you generate AI-based images as icons using Gemini AI image generation, so you can create icons from text prompts too!",
             technologies: [
                 "Next.js",
                 "Typescript",
@@ -230,7 +230,7 @@ export const DATA = {
             dates: "",
             active: true,
             description:
-                "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+                "LeetCode Calendar is an open-source React component that visualizes LeetCode activity in a GitHub-style contribution calendar. It supports full customization of block size, spacing, fonts, themes, and layout, making it easy for developers to showcase their coding streaks. Published on npm as @yashx700/leetcodecalendar, it's designed for easy installation and integration into personal websites or dashboards.",
             technologies: [
                 "React.js",
                 "Typescript",
@@ -259,7 +259,7 @@ export const DATA = {
             dates: "April 2023 - March 2024",
             active: true,
             description:
-                "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+                "Mimzy is a modern, open-source chat application built with React and Firebase. It features real-time messaging, user authentication, and a responsive design, making it easy for users to connect and communicate. With a focus on simplicity and usability, Mimzy is the perfect solution for anyone looking to create their own chat application.",
             technologies: [
                 "Next.js",
                 "Typescript",
