@@ -135,7 +135,7 @@ export const DATA = {
     projects: [
         {
             title: "Zuto",
-            href: "https://career-path-gen-ai-exchange.vercel.app/",
+            href: "https://zutogo.vercel.app",
             dates: "1 Oct - Present",
             active: true,
             description:
@@ -155,10 +155,20 @@ export const DATA = {
             ],
             links: [
                 {
-                    type: "Download app",
+                    type: "Download for android",
                     href: "#",
                     icon: <Icons.android className="size-3" />,
-                }
+                },
+                {
+                    type: "Download for iOS",
+                    href: "#",
+                    icon: <Icons.apple className="size-3" />,
+                },
+                {
+                    type: "Website",
+                    href: "https://zutogo.vercel.app",
+                    icon: <Icons.globe className="size-3" />,
+                },
             ],
             image: "",
             video: "",
@@ -187,7 +197,7 @@ export const DATA = {
                     icon: <Icons.globe className="size-3" />,
                 },
                 {
-                    type: "Website",
+                    type: "Source",
                     href: "https://github.com/yash700701/career_path_backend",
                     icon: <Icons.github className="size-3" />,
                 },
