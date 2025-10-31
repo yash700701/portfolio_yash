@@ -135,7 +135,7 @@ export const DATA = {
     projects: [
         {
             title: "Zuto",
-            href: "https://zutogo.vercel.app",
+            href: "https://zutogo.com",
             dates: "1 Oct - Present",
             active: true,
             description:
@@ -166,7 +166,7 @@ export const DATA = {
                 },
                 {
                     type: "Website",
-                    href: "https://zutogo.vercel.app",
+                    href: "https://zutogo.com",
                     icon: <Icons.globe className="size-3" />,
                 },
             ],
